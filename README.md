@@ -2,6 +2,10 @@
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/matvrus)
 
+## Authors
+
+- [@ruslan](https://github.com/matvrus)
+
 # step-by-step instructions
 
  Here are the steps to create a new GitHub repository and a development branch:
@@ -20,7 +24,7 @@
 
 ### Creating a Development Branch
 
-1. Clone the repository to your local machine: `git clone https://github.com/your-username/new-project.git`
+1. Clone the repository to your local machine: `git clone https://github.com/matvrus/new-project.git`
 2. Navigate to the project directory: `cd new-project`
 3. Create a new branch for development: `git checkout -b development`
 4. Make changes to your project on the development branch.
@@ -31,10 +35,10 @@
 If you'd like to contribute to this project, follow these steps:
 
 1. Fork the repository to your GitHub account.
-2. Clone the forked repository to your local machine: `git clone https://github.com/your-username/new-project.git`
-3. Create a new branch for your changes: `git checkout -b feature/your-feature`
+2. Clone the forked repository to your local machine: `git clone https://github.com/matvrus/new-project.git`
+3. Create a new branch for your changes: `git checkout -b feature`
 4. Make changes to your project on the new branch.
-5. Push your changes to your forked repository: `git push origin feature/your-feature`
+5. Push your changes to your forked repository: `git push origin feature`
 6. Create a pull request on the original repository and request a review.
 
 ## License
