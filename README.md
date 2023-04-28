@@ -6,7 +6,7 @@
 
 - [@ruslan](https://github.com/matvrus)
 
-# step-by-step instructions
+## step-by-step instructions
 
  Here are the steps to create a new GitHub repository and a development branch:
 
